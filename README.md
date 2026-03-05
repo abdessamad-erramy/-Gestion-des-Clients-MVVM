@@ -7,6 +7,12 @@ The application allows basic **CRUD operations** (Create, Read, Update, Delete) 
 
 The goal of this project is to demonstrate how **MVVM architecture** can be applied in Android development while keeping a clear separation between the **UI**, **business logic**, and **data layer**.
 
+
+### Screenshot
+<div align="center">
+  <img src="screenshots/home_screen.png" width="800"/>
+</div> 
+
 ---
 
 #  Architecture
